@@ -1,0 +1,21 @@
+{
+    "table_name": "courses",
+    "columns": {
+        "id": "int",
+        "course_name": "string"
+    },
+    "rows": [
+        {
+            "id": 1,
+            "course_name": "Computer Science"
+        },
+        {
+            "id": 2,
+            "course_name": "Mathematics"
+        },
+        {
+            "id": 3,
+            "course_name": "Physics"
+        }
+    ]
+}

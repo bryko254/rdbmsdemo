@@ -1,0 +1,25 @@
+{
+    "table_name": "students",
+    "columns": {
+        "id": "int",
+        "grade": "int"
+    },
+    "rows": [
+        {
+            "id": 1,
+            "grade": 85
+        },
+        {
+            "id": 2,
+            "grade": 90
+        },
+        {
+            "id": 3,
+            "grade": 95
+        },
+        {
+            "id": 10,
+            "grade": 100
+        }
+    ]
+}
